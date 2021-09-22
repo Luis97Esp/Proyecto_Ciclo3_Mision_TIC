@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BltX8VECgBbk3rMhmuFzv5bnh5an2UWGX1/2sUxNf7Fiy+C3yy0o5w+ZkRCoJA849PgtitnqmWdMFH4MbBfJGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FAMILIA\\Desktop\\Mision TIC 2022\\Programacion\\Proyecto Ciclo 3\\ejercicio_base_ciclo3_MT-main\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FAMILIA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\FAMILIA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
